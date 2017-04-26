@@ -65,3 +65,6 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Julia Silge](http://juliasilge.com/), [@juliasilge](https://github.com/juliasilge),
   <https://github.com/juliasilge/tidytext>, <http://tidytextmining.com>
+
+- [Amy Cesal](http://www.amycesal.com/), [@amycesal](https://twitter.com/amycesal),
+  <https://github.com/amycesal/dataviz-style-guide>, <http://cfpb.github.io/design-manual/data-visualization/data-visualization.html>
