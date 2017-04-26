@@ -74,6 +74,8 @@ Pull requests welcome! Or add an issue, or tweet
   [Arvind Satyanarayan](http://arvindsatya.com/) ([@arvindsatya1](https://twitter.com/arvindsatya1))
   <https://vega.github.io/vega-lite/>
 
+- [Eric Socolofsky](http://transmote.com/), [@ericsoco](https://twitter.com/ericsoco)
+
 - [Connor Gramazio](http://gramaz.io/),
   [@ccgramazio](https://twitter.com/ccgramazio),
   <http://gramaz.io/d3-jnd/>, <http://gramaz.io/colorgorical/>, <http://gramaz.io/d3-cam02/>
