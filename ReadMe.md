@@ -60,7 +60,7 @@ Pull requests welcome! Or add an issue, or tweet
   [A data point walks into a bar](https://github.com/lisacharlotterost/talk-slides/blob/master/1612_ADatpointWalksIntoABar.pdf)
 
 - [Kai Chang](http://bl.ocks.org/syntagmatic), [@syntagmatic](https://twitter.com/syntagmatic),
-  [d3 and canvas](https://bl.ocks.org/syntagmatic/raw/c157cd20973d7f92e913fac28cfa8a56/#1),
+  [d3 and canvas](https://bl.ocks.org/syntagmatic/raw/c157cd20973d7f92e913fac28cfa8a56/#1)
 
 - [Noah Veltman](http://noahveltman.com), [@veltman](https://twitter.com/veltman),
   [Pulling a polygon out of a hat](https://github.com/veltman/openvis)
