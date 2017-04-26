@@ -73,8 +73,8 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Kanit "Ham" Wongsuphasawat](http://kanitw.github.io/) ([@kanitw](https://twitter.com/kanitw)),
   [Dominik Moritz](https://www.domoritz.de/) ([@domoritz](https://twitter.com/domoritz)),
-  [Arvind Satyanarayan](http://arvindsatya.com/) ([@arvindsatya1](https://twitter.com/arvindsatya1)),
-  <https://vega.github.io/vega-lite/>, <https://altair-viz.github.io/>
+  [Arvind Satyanarayan](http://arvindsatya.com/) ([@arvindsatya1](https://twitter.com/arvindsatya1)), [Vega-Lite:
+A Grammar of Interactive Graphics](https://www.domoritz.de/talks/VegaLite-OpenVisConf-2017.pdf), <https://vega.github.io/vega-lite/>, <https://altair-viz.github.io/>
 
 - [Eric Socolofsky](http://transmote.com/), [@ericsoco](https://twitter.com/ericsoco)
 
