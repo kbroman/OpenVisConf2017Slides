@@ -37,6 +37,9 @@ Pull requests welcome! Or add an issue, or tweet
   [How Spatial Polygons Shape Our World](https://github.com/AmeliaMN/SpatialPolygons/raw/master/SpatialAgg.pdf)
   \[[Source](https://github.com/AmeliaMN/SpatialPolygons)\]
 
+- [John Alexis Guerra Gómez](http://johnguerra.co/), [@duto_guerra](https://twitter.com/duto_guerra),
+  [Untangling the hairball](http://johnguerra.co/slides/untanglingTheHairball/#/)
+
 ## Tuesday 2017-04-25
 
 - [Kai Chang](http://bl.ocks.org/syntagmatic), [@syntagmatic](https://twitter.com/syntagmatic),
