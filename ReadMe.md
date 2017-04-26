@@ -79,8 +79,7 @@ A Grammar of Interactive Graphics](https://www.domoritz.de/talks/VegaLite-OpenVi
 - [Eric Socolofsky](http://transmote.com/), [@ericsoco](https://twitter.com/ericsoco)
 
 - [Connor Gramazio](http://gramaz.io/),
-  [@ccgramazio](https://twitter.com/ccgramazio),
-  <http://gramaz.io/d3-jnd/>, <http://gramaz.io/colorgorical/>, <http://gramaz.io/d3-cam02/>
+  [@ccgramazio](https://twitter.com/ccgramazio), [Effective Visualization (Color) Design](http://gramaz.io/pdf/gramazio-2017-ovc.pdf), <http://gramaz.io/d3-jnd/>, <http://gramaz.io/colorgorical/>, <http://gramaz.io/d3-cam02/>
 
 - [Alan McLean](http://alanmclean.org/), [@alanmclean](https://twitter.com/alanmclean)
 
