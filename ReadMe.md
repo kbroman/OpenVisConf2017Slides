@@ -73,3 +73,7 @@ Pull requests welcome! Or add an issue, or tweet
   [Dominik Moritz](https://www.domoritz.de/) ([@domoritz](https://twitter.com/domoritz)),
   [Arvind Satyanarayan](http://arvindsatya.com/) ([@arvindsatya1](https://twitter.com/arvindsatya1))
   <https://vega.github.io/vega-lite/>
+
+- [Connor Gramazio](http://gramaz.io/),
+  [@ccgramazio](https://twitter.com/ccgramazio),
+  <http://gramaz.io/d3-jnd/>, <http://gramaz.io/colorgorical/>, <http://gramaz.io/d3-cam02/>
