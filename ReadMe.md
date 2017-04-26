@@ -5,7 +5,7 @@ Links to slides (or related links) for talks at the 2017
 
 Schedule: <https://openvisconf.com#speakers>
 
-Community Notes: <https://bit.ly/ovc-2017-notes>
+Community notes: <https://bit.ly/ovc-2017-notes>
 
 Pull requests welcome! Or add an issue, or tweet
 [@kwbroman](https://twitter.com/kwbroman) or email
