@@ -1,6 +1,6 @@
 # Links to slides from OpenVisConf 2017
 
-Links to slides (or related links) for talks at the 2017
+Links to slides (or related things) for talks at the 2017
 [OpenVisConf](https://openvisconf.com)
 
 Schedule: <https://openvisconf.com#speakers>
