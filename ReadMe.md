@@ -85,3 +85,5 @@ Pull requests welcome! Or add an issue, or tweet
 - [Alan McLean](http://alanmclean.org/), [@alanmclean](https://twitter.com/alanmclean)
 
 - [Hadley Wickham](http://hadley.nz/), [@hadleywickham](https://twitter.com/hadleywickham)
+  [Visualization for EDA](https://github.com/hadley/vis-eda/blob/master/vis-eda.pdf)
+  \[[Source](https://github.com/hadley/vis-eda)\]
