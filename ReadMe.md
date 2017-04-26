@@ -54,7 +54,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Tuesday 2017-04-25
 
-- [Amanda Cox](http://amandacox.tumblr.com/), [@amandacox](https://twitter.com/amandacox),
+- [Amanda Cox](http://amandacox.tumblr.com/), [@amandacox](https://twitter.com/amandacox)
 
 - [Lisa Charlotte Rost](http://lisacharlotterost.de/), [@lisacrost](https://twitter.com/lisacrost),
   [A data point walks into a bar](https://github.com/lisacharlotterost/talk-slides/blob/master/1612_ADatpointWalksIntoABar.pdf)
