@@ -13,19 +13,29 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Monday 2017-04-24
 
+- [Mike Bostock](https://bost.ocks.org/mike/), [@mbostock](https://twitter.com/mbostock)
+
 - [Shirley Wu](http://sxywu.com/) ([@sxywu](https://twitter.com/sxywu)) and
   [Nadieh Bremer](https://www.visualcinnamon.com/) ([@NadiehBremer](https://twitter.com/NadiehBremer))
   [Data Sketches](http://www.datasketch.es/) ([@datasketches](https://twitter.com/datasketches))
-
-- [Amelia McNamara](http://www.science.smith.edu/~amcnamara/), [@AmeliaMN](https://twitter.com/AmeliaMN),
-  [How Spatial Polygons Shape Our World](https://github.com/AmeliaMN/SpatialPolygons/raw/master/SpatialAgg.pdf)
-  \[[Source](https://github.com/AmeliaMN/SpatialPolygons)\]
 
 - [Nicolas Belmonte](http://philogb.github.io/), [@philogb](https://twitter.com/philogb),
   <http://uber.github.io/deck.gl/>, <https://github.com/uber/deck.gl>
 
 - [Matthew Brehmer](http://mattbrehmer.github.io/), [@mattbrehmer](https://twitter.com/mattbrehmer),
   [What story does your timeline tell?](http://mattbrehmer.github.io/pubs/ovc2017.pdf)
+
+- [Robert Simmon](https://earthobservatory.nasa.gov/blogs/elegantfigures/), [@rsimmon](https://twitter.com/rsimmon),
+  Gentle introduction to GDAL at
+  [medium.com/@robsimmon](https://medium.com/@robsimmon):
+  [part 1](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96082),
+  [part 2](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-2-map-projections-gdalwarp-e05173bd710a),
+  [part 3](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-3-geodesy-local-map-projections-794c6ff675ca),
+  [part 4](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-4-working-with-satellite-data-d3835b5e2971)
+
+- [Amelia McNamara](http://www.science.smith.edu/~amcnamara/), [@AmeliaMN](https://twitter.com/AmeliaMN),
+  [How Spatial Polygons Shape Our World](https://github.com/AmeliaMN/SpatialPolygons/raw/master/SpatialAgg.pdf)
+  \[[Source](https://github.com/AmeliaMN/SpatialPolygons)\]
 
 ## Tuesday 2017-04-25
 
