@@ -74,7 +74,7 @@ Pull requests welcome! Or add an issue, or tweet
 - [Kanit "Ham" Wongsuphasawat](http://kanitw.github.io/) ([@kanitw](https://twitter.com/kanitw)),
   [Dominik Moritz](https://www.domoritz.de/) ([@domoritz](https://twitter.com/domoritz)),
   [Arvind Satyanarayan](http://arvindsatya.com/) ([@arvindsatya1](https://twitter.com/arvindsatya1)),
-  <https://vega.github.io/vega-lite/>
+  <https://vega.github.io/vega-lite/>, <https://altair-viz.github.io/>
 
 - [Eric Socolofsky](http://transmote.com/), [@ericsoco](https://twitter.com/ericsoco)
 
