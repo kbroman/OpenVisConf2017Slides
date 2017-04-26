@@ -19,7 +19,8 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Shirley Wu](http://sxywu.com/) ([@sxywu](https://twitter.com/sxywu)) and
   [Nadieh Bremer](https://www.visualcinnamon.com/) ([@NadiehBremer](https://twitter.com/NadiehBremer))
-  [Data Sketches](http://www.datasketch.es/) ([@datasketches](https://twitter.com/datasketches))
+  [Data Sketches](http://www.datasketch.es/) ([@datasketches](https://twitter.com/datasketches)),
+  [Presentation](http://www.datasketch.es/presentation/) \[[Source](https://github.com/nbremer/datasketchespresentation)\]
 
 - [Nicolas Belmonte](http://philogb.github.io/), [@philogb](https://twitter.com/philogb),
   <http://uber.github.io/deck.gl/>, <https://github.com/uber/deck.gl>
