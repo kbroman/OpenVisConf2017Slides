@@ -36,7 +36,7 @@ Pull requests welcome! Or add an issue, or tweet
   [part 4](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-4-working-with-satellite-data-d3835b5e2971)
 
 - [Amelia McNamara](http://www.science.smith.edu/~amcnamara/), [@AmeliaMN](https://twitter.com/AmeliaMN),
-  [How Spatial Polygons Shape Our World](https://github.com/AmeliaMN/SpatialPolygons/raw/master/SpatialAgg.pdf)
+  [How Spatial Polygons Shape Our World](https://github.com/AmeliaMN/SpatialPolygons/blob/master/SpatialAgg.pdf)
   \[[Source](https://github.com/AmeliaMN/SpatialPolygons)\]
 
 - [Mikola Lysenko](https://github.com/mikolalysenko), [@mikolalysenko](https://twitter.com/mikolalysenko),
@@ -57,7 +57,7 @@ Pull requests welcome! Or add an issue, or tweet
 - [Amanda Cox](http://amandacox.tumblr.com/), [@amandacox](https://twitter.com/amandacox),
 
 - [Lisa Charlotte Rost](http://lisacharlotterost.de/), [@lisacrost](https://twitter.com/lisacrost),
-  [A data point walks into a bar](https://github.com/lisacharlotterost/talk-slides/raw/master/1612_ADatpointWalksIntoABar.pdf)
+  [A data point walks into a bar](https://github.com/lisacharlotterost/talk-slides/blob/master/1612_ADatpointWalksIntoABar.pdf)
 
 - [Kai Chang](http://bl.ocks.org/syntagmatic), [@syntagmatic](https://twitter.com/syntagmatic),
   [d3 and canvas](https://bl.ocks.org/syntagmatic/raw/c157cd20973d7f92e913fac28cfa8a56/#1),
