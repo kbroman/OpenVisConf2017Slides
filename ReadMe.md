@@ -73,14 +73,13 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Kanit "Ham" Wongsuphasawat](http://kanitw.github.io/) ([@kanitw](https://twitter.com/kanitw)),
   [Dominik Moritz](https://www.domoritz.de/) ([@domoritz](https://twitter.com/domoritz)),
-  [Arvind Satyanarayan](http://arvindsatya.com/) ([@arvindsatya1](https://twitter.com/arvindsatya1)),
-  <https://vega.github.io/vega-lite/>, <https://altair-viz.github.io/>
+  [Arvind Satyanarayan](http://arvindsatya.com/) ([@arvindsatya1](https://twitter.com/arvindsatya1)), [Vega-Lite:
+A Grammar of Interactive Graphics](https://www.domoritz.de/talks/VegaLite-OpenVisConf-2017.pdf), <https://vega.github.io/vega-lite/>, <https://altair-viz.github.io/>
 
 - [Eric Socolofsky](http://transmote.com/), [@ericsoco](https://twitter.com/ericsoco)
 
 - [Connor Gramazio](http://gramaz.io/),
-  [@ccgramazio](https://twitter.com/ccgramazio),
-  <http://gramaz.io/d3-jnd/>, <http://gramaz.io/colorgorical/>, <http://gramaz.io/d3-cam02/>
+  [@ccgramazio](https://twitter.com/ccgramazio), [Effective Visualization (Color) Design](http://gramaz.io/pdf/gramazio-2017-ovc.pdf), <http://gramaz.io/d3-jnd/>, <http://gramaz.io/colorgorical/>, <http://gramaz.io/d3-cam02/>
 
 - [Alan McLean](http://alanmclean.org/), [@alanmclean](https://twitter.com/alanmclean)
 
