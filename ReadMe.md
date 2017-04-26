@@ -79,3 +79,7 @@ Pull requests welcome! Or add an issue, or tweet
 - [Connor Gramazio](http://gramaz.io/),
   [@ccgramazio](https://twitter.com/ccgramazio),
   <http://gramaz.io/d3-jnd/>, <http://gramaz.io/colorgorical/>, <http://gramaz.io/d3-cam02/>
+
+- [Alan McLean](http://alanmclean.org/), [@alanmclean](https://twitter.com/alanmclean)
+
+- [Hadley Wickham](http://hadley.nz/), [@hadleywickham](https://twitter.com/hadleywickham)
