@@ -65,7 +65,7 @@ Pull requests welcome! Or add an issue, or tweet
 - [Noah Veltman](http://noahveltman.com), [@veltman](https://twitter.com/veltman),
   [Pulling a polygon out of a hat](https://github.com/veltman/openvis)
 
-- [Julia Silge](http://juliasilge.com/), [@juliasilge](https://github.com/juliasilge),
+- [Julia Silge](http://juliasilge.com/), [@juliasilge](https://twitter.com/juliasilge),
   <https://github.com/juliasilge/tidytext>, <http://tidytextmining.com>
 
 - [Amy Cesal](http://www.amycesal.com/), [@amycesal](https://twitter.com/amycesal),
