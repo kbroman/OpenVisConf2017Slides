@@ -45,7 +45,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Catherine D'Ignazio](http://www.kanarinka.com/) ([@kanarinka](twitter.com/kanarinka)) and
   [Rahul Bhargava](http://rahulbotics.com/) ([@rahulbot](https://twitter.com/rahulbot)),
-  <databasic.io>
+  <https://databasic.io>
 
 - [Matt Daniels](https://pudding.cool/), [@matthew_daniels](https://twitter.com/matthew_daniels),
   <http://polygraph.cool/>
@@ -64,4 +64,4 @@ Pull requests welcome! Or add an issue, or tweet
   [Pulling a polygon out of a hat](https://github.com/veltman/openvis)
 
 - [Julia Silge](http://juliasilge.com/), [@juliasilge](https://github.com/juliasilge),
-  <https://github.com/juliasilge/tidytext>, <https://tidytextmining.com>
+  <https://github.com/juliasilge/tidytext>, <http://tidytextmining.com>
