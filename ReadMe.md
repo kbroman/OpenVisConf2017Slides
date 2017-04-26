@@ -27,3 +27,13 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Noah Veltman](http://noahveltman.com), [@veltman](https://twitter.com/veltman),
   [Pulling a polygon out of a hat](https://github.com/veltman/openvis)
+
+---
+
+## Not quite slides, but related links
+
+### Monday 2017-04-24
+
+- [Shirley Wu](http://sxywu.com/) ([@sxywu](https://twitter.com/sxywu)) and
+  [Nadieh Bremer](https://www.visualcinnamon.com/) ([@NadiehBremer](https://twitter.com/NadiehBremer))
+  [Data Sketches](http://www.datasketch.es/) ([@datasketches](https://twitter.com/datasketches))
