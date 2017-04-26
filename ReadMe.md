@@ -52,6 +52,11 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Tuesday 2017-04-25
 
+- [Amanda Cox](http://amandacox.tumblr.com/), [@amandacox](https://twitter.com/amandacox),
+
+- [Lisa Charlotte Rost](http://lisacharlotterost.de/), [@lisacrost](https://twitter.com/lisacrost),
+  [A data point walks into a bar](https://github.com/lisacharlotterost/talk-slides/raw/master/1612_ADatpointWalksIntoABar.pdf)
+
 - [Kai Chang](http://bl.ocks.org/syntagmatic), [@syntagmatic](https://twitter.com/syntagmatic),
   [d3 and canvas](https://bl.ocks.org/syntagmatic/raw/c157cd20973d7f92e913fac28cfa8a56/#1),
 
