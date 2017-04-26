@@ -40,6 +40,11 @@ Pull requests welcome! Or add an issue, or tweet
 - [John Alexis Guerra Gómez](http://johnguerra.co/), [@duto_guerra](https://twitter.com/duto_guerra),
   [Untangling the hairball](http://johnguerra.co/slides/untanglingTheHairball/#/)
 
+- [Catherine D'Ignazio](http://www.kanarinka.com/) ([@kanarinka](twitter.com/kanarinka)) and
+  [Rahul Bhargava](http://rahulbotics.com/) ([@rahulbot](https://twitter.com/rahulbot)),
+  <databasic.io>
+
+
 ## Tuesday 2017-04-25
 
 - [Kai Chang](http://bl.ocks.org/syntagmatic), [@syntagmatic](https://twitter.com/syntagmatic),
