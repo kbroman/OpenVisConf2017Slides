@@ -45,7 +45,7 @@ Pull requests welcome! Or add an issue, or tweet
 - [John Alexis Guerra Gómez](http://johnguerra.co/), [@duto_guerra](https://twitter.com/duto_guerra),
   [Untangling the hairball](http://johnguerra.co/slides/untanglingTheHairball/#/)
 
-- [Catherine D'Ignazio](http://www.kanarinka.com/) ([@kanarinka](twitter.com/kanarinka)) and
+- [Catherine D'Ignazio](http://www.kanarinka.com/) ([@kanarinka](https://twitter.com/kanarinka)) and
   [Rahul Bhargava](http://rahulbotics.com/) ([@rahulbot](https://twitter.com/rahulbot)),
   <https://databasic.io>
 
