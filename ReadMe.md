@@ -15,7 +15,8 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Monday 2017-04-24
 
-- [Mike Bostock](https://bost.ocks.org/mike/), [@mbostock](https://twitter.com/mbostock)
+- [Mike Bostock](https://bost.ocks.org/mike/), [@mbostock](https://twitter.com/mbostock),
+  [A better way to code (blog post)](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
 
 - [Shirley Wu](http://sxywu.com/) ([@sxywu](https://twitter.com/sxywu)) and
   [Nadieh Bremer](https://www.visualcinnamon.com/) ([@NadiehBremer](https://twitter.com/NadiehBremer))
