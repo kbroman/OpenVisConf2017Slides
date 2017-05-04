@@ -19,8 +19,11 @@ Pull requests welcome! Or add an issue, or tweet
   [A better way to code (blog post)](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
 
 - [Shirley Wu](http://sxywu.com/) ([@sxywu](https://twitter.com/sxywu)) and
-  [Nadieh Bremer](https://www.visualcinnamon.com/) ([@NadiehBremer](https://twitter.com/NadiehBremer))
-  [Data Sketches](http://www.datasketch.es/) ([@datasketches](https://twitter.com/datasketches))
+  [Nadieh Bremer](https://www.visualcinnamon.com/) ([@NadiehBremer](https://twitter.com/NadiehBremer)
+  ([Data Sketches](http://www.datasketch.es/),
+  [@datasketches](https://twitter.com/datasketches)),
+  [Data Sketches: A visualization a month](http://www.datasketch.es/presentation/)
+
 
 - [Nicolas Belmonte](http://philogb.github.io/), [@philogb](https://twitter.com/philogb),
   <http://uber.github.io/deck.gl/>, <https://github.com/uber/deck.gl>
