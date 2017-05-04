@@ -20,8 +20,8 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Shirley Wu](http://sxywu.com/) ([@sxywu](https://twitter.com/sxywu)) and
   [Nadieh Bremer](https://www.visualcinnamon.com/) ([@NadiehBremer](https://twitter.com/NadiehBremer))
-  ([Data Sketches](http://www.datasketch.es/) <br/>
-  [@datasketches](https://twitter.com/datasketches)),
+  ([Data Sketches](http://www.datasketch.es/)
+  [@datasketches](https://twitter.com/datasketches)), <br/>
   [Data Sketches: A visualization a month](http://www.datasketch.es/presentation/)
 
 
