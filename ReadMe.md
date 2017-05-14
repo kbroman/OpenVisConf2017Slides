@@ -5,6 +5,8 @@ Links to slides (or related things) for talks at the 2017
 
 Schedule: <https://openvisconf.com#speakers>
 
+Talk videos (and transcripts): <https://openvisconf.com/#videos>
+
 Community notes: <https://bit.ly/ovc-2017-notes>
 
 Pull requests welcome! Or add an issue, or tweet
