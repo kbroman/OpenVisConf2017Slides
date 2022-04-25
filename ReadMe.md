@@ -9,8 +9,7 @@ Talk videos (and transcripts): <https://openvisconf.com/#videos>
 
 Community notes: <https://bit.ly/ovc-2017-notes>
 
-Pull requests welcome! Or add an issue, or tweet
-[@kwbroman](https://twitter.com/kwbroman) or email
+Pull requests welcome! Or add an issue, or email
 [Karl Broman](http://kbroman.org).
 
 ---
